@@ -71,3 +71,36 @@
 
 8. **Servir**
    - Saca la pizza del horno y déjala enfriar durante unos minutos antes de cortarla.
+
+
+- Receta de Pizza Casera
+
+Ingredientes:
+
+- Masa para pizza
+- Salsa de tomate
+- Queso mozzarella rallado
+- Embutidos (pepperoni, salchichas, jamón, etc.)
+- Aceite de oliva
+- Hierbas y especias opcionales (orégano, albahaca, ají, etc.)
+
+
+1. Adquiere los ingredientes necesarios, como tomates frescos, queso mozzarella, masa para pizza o prepara la masa casera, embutidos de tu elección y aceite de oliva.
+
+2.  Comienza moldeando la masa en la forma y tamaño que desees para tu pizza. 
+
+3. En una sartén, calienta un poco de aceite de oliva y añade tomates frescos triturados o salsa de tomate enlatada. Cocina a fuego lento durante unos minutos
+
+4. Extiende la salsa de tomate sobre la masa de manera uniforme, dejando un borde pequeño sin cubrir alrededor para que se forme el borde de la pizza.
+
+5.  Espolvorea generosamente el queso mozzarella rallado sobre la salsa de tomate.
+
+6. Distribuye los embutidos elegidos sobre la pizza.
+
+7. Rocía un poco de aceite de oliva sobre la pizza antes de meterla al horno.
+
+8.  Precalienta tu horno a una temperatura alta, entre 220°C y 250°C. Coloca la pizza en una bandeja para hornear o directamente sobre una piedra para pizza y hornéala entre 12 y 15 minutos
+
+9. Una vez que la pizza esté lista, retírala del horno y verifica que esté cocida al punto deseado. 
+
+10. Corta la pizza en porciones y sírvela caliente.
