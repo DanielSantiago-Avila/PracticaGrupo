@@ -35,6 +35,9 @@
 6.Servir:
 -Retira la pizza del horno y deja reposar por unos minutos antes de cortarla.
 -Corta en porciones y sirve caliente.
+
+
+
 # Cómo Hacer una Pizza
 
 ## Ingredientes
@@ -73,6 +76,7 @@
    - Saca la pizza del horno y déjala enfriar durante unos minutos antes de cortarla.
 
 
+
 - Receta de Pizza Casera
 
 Ingredientes:
@@ -104,3 +108,21 @@ Ingredientes:
 9. Una vez que la pizza esté lista, retírala del horno y verifica que esté cocida al punto deseado. 
 
 10. Corta la pizza en porciones y sírvela caliente.
+
+
+
+- Cuarta receta para pizza:
+
+Ingredientes:
+1. Masa de pizza prehecha (o puedes hacerla desde cero con harina, levadura, agua y sal)
+2. Salsa de tomate
+3. Mozzarella rallada
+4. Toppings opcionales (pepperoni, champiñones, etc.)
+
+Instrucciones:
+1. Precalienta tu horno a 230-250°C.
+2. Extiende la masa de pizza sobre una bandeja enharinada.
+4. Cubre la masa con salsa de tomate.
+5. Agrega la mozzarella y los toppings.
+6. Hornea durante 10-15 minutos, o hasta que la masa esté dorada y el queso burbujeante.
+7. ¡Sirve caliente y disfruta!
