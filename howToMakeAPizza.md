@@ -111,18 +111,29 @@ Ingredientes:
 
 
 
-- Cuarta receta para pizza:
+- receta para pizza española:
 
-Ingredientes:
-1. Masa de pizza prehecha (o puedes hacerla desde cero con harina, levadura, agua y sal)
-2. Salsa de tomate
-3. Mozzarella rallada
-4. Toppings opcionales (pepperoni, champiñones, etc.)
+Ingredientes
+1. 1/2 kilo harina
+2. 50 cc aceite
+3. 10 grms levadura
+4. Sal a gusto
+5. 3/4 de Agua tibia (agregando hasta formar una masa blanda)
+6. 100 grm queso
+7. 60 grm salsa de tomate
+8. 50 grm jamón
+9. 50 grm tomate
+10. 50 grm pimentón
+11. 50 grm choricillo
 
-Instrucciones:
-1. Precalienta tu horno a 230-250°C.
-2. Extiende la masa de pizza sobre una bandeja enharinada.
-4. Cubre la masa con salsa de tomate.
-5. Agrega la mozzarella y los toppings.
-6. Hornea durante 10-15 minutos, o hasta que la masa esté dorada y el queso burbujeante.
-7. ¡Sirve caliente y disfruta!
+Instrucciones
+1. Mezclar la harina, la sal, aceite, levadura y el agua: Mezcla todos los ingredientes en un tazón hasta formar una masa blanda.
+2. Dejar reposar la masa unos 20 minutos: Deja la masa reposar durante 20 minutos para que la levadura haga su trabajo.
+3. Agregar los ingredientes: Agrega los ingredientes restantes a la masa, incluyendo el queso, salsa de tomate, jamón, tomate, pimentón y choricillo.
+4. Llevar a horno a 180 grados por 20 minutos: Coloca la masa en un horno precalentado a 180 grados y cocina durante 20 minutos.
+5. Listo para servir: Saca la pizza del horno y lista para servir.
+
+Tips y Variaciones
+1. Puedes personalizar la receta agregando tus propios ingredientes favoritos.
+2. Si deseas una corteza crujiente, puedes hornear la pizza durante 5 minutos más.
+3. Puedes servir la pizza con salsa de tomate adicional y orégano para darle un toque extra.
